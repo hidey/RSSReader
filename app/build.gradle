@@ -28,4 +28,7 @@ dependencies {
     compile 'com.android.support:appcompat-v7:22.2.1'
     compile 'com.squareup.okhttp:okhttp:2.5.0'
     compile 'com.google.code.android-rome-feed-reader:android-rome-feed-reader:1.0.0-r2'
+
+    testCompile 'junit:junit:4.12'
+    testCompile 'org.robolectric:robolectric:3.0'
 }
